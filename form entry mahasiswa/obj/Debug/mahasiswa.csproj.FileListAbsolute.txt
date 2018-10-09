@@ -1,0 +1,11 @@
+F:\AMIKOM\Semester 3\Pemrograman\Tugas\3\form entry mahasiswa\form entry mahasiswa\bin\Debug\form entry mahasiswa.exe.config
+F:\AMIKOM\Semester 3\Pemrograman\Tugas\3\form entry mahasiswa\form entry mahasiswa\bin\Debug\form entry mahasiswa.exe
+F:\AMIKOM\Semester 3\Pemrograman\Tugas\3\form entry mahasiswa\form entry mahasiswa\bin\Debug\form entry mahasiswa.pdb
+F:\AMIKOM\Semester 3\Pemrograman\Tugas\3\form entry mahasiswa\form entry mahasiswa\obj\Debug\form_entry_mahasiswa.Form1.resources
+F:\AMIKOM\Semester 3\Pemrograman\Tugas\3\form entry mahasiswa\form entry mahasiswa\obj\Debug\form_entry_mahasiswa.Properties.Resources.resources
+F:\AMIKOM\Semester 3\Pemrograman\Tugas\3\form entry mahasiswa\form entry mahasiswa\obj\Debug\mahasiswa.csproj.GenerateResource.Cache
+F:\AMIKOM\Semester 3\Pemrograman\Tugas\3\form entry mahasiswa\form entry mahasiswa\obj\Debug\form entry mahasiswa.exe
+F:\AMIKOM\Semester 3\Pemrograman\Tugas\3\form entry mahasiswa\form entry mahasiswa\obj\Debug\form entry mahasiswa.pdb
+F:\AMIKOM\Semester 3\Pemrograman\Tugas\3\form entry mahasiswa\bin\Debug\form entry mahasiswa.exe.config
+F:\AMIKOM\Semester 3\Pemrograman\Tugas\3\form entry mahasiswa\obj\Debug\form entry mahasiswa.exe
+F:\AMIKOM\Semester 3\Pemrograman\Tugas\3\form entry mahasiswa\obj\Debug\form entry mahasiswa.pdb
